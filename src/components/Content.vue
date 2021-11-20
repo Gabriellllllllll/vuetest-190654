@@ -1,9 +1,7 @@
 <template>
-  <v-navigation-drawer absolute permanent left>
     <v-container fluid fill-height>
       <v-card-text>
-        <center>v-navigation-drawer</center>
+        <center>v-content</center>
       </v-card-text>
     </v-container>
-  </v-navigation-drawer>
 </template>
