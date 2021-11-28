@@ -4,7 +4,7 @@
       <SystemBar />
       <AppBar />
     </v-card>
-    <v-card height="610px">
+    <v-card height="570px">
       <NavigationDrawer />
       <Content />
     </v-card>
