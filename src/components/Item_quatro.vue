@@ -2,6 +2,7 @@
   <v-container fill-height>
     <v-card flat class="mx-auto" max-width="1000" max-height="81vh">
       <v-container fluid>
+        
         <v-row dense>
           <v-col v-for="(n, i) in $store.state.itens" :key="i">
             <v-card width="380" height="20vh" v-if="n.ID === 'Item4'" color="grey">

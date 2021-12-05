@@ -7,7 +7,7 @@
             <v-card width="400" height="20vh" v-if="n.ID === 'Item1'" color="grey">
               <v-img>
                 <v-card-title v-text="n.Nome"></v-card-title>
-                <v-card-subtitle> Preço: {{ n.Preço }} </v-card-subtitle>
+                <v-card-subtitle> Preço: {{ n.Preço }}</v-card-subtitle>
               </v-img>
             </v-card>
           </v-col>

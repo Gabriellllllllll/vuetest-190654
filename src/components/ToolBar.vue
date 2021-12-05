@@ -23,6 +23,7 @@
 
       <v-toolbar-title>Vuetify</v-toolbar-title>
       <v-spacer></v-spacer>
+      <v-btn color="grey"><router-link to="/APICovid" tag="button">APICovid</router-link></v-btn>
       <v-btn color="grey"><router-link to="/Item1" tag="button">Item1</router-link></v-btn>
       <v-btn color="grey"><router-link to="/Item2" tag="button">Item2</router-link></v-btn>
       <v-btn color="grey"><router-link to="/Item3" tag="button">Item3</router-link></v-btn>

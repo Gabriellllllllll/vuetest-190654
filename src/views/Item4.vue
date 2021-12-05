@@ -1,5 +1,10 @@
 <template>
-  <Item_quatro />
+ <div>
+    <v-container justify-center fill-height
+      ><strong>{{ $store.getters.bigTitle }}</strong
+      ><Item_quatro
+    /></v-container>
+  </div>
 </template>
 
 <script>

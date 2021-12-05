@@ -4,6 +4,11 @@
       <v-card-text>
         <center>
           <v-btn
+            ><router-link to="/APICovid" tag="button">APICovid</router-link></v-btn
+          >
+        </center>
+        <center>
+          <v-btn
             ><router-link to="/Item1" tag="button">Item1</router-link></v-btn
           >
         </center>

@@ -5,6 +5,7 @@ import Item1 from '../views/Item1.vue'
 import Item2 from '../views/Item2.vue'
 import Item3 from '../views/Item3.vue'
 import Item4 from '../views/Item4.vue'
+import View_APICovid from '../views/View_APICovid.vue'
 
 Vue.use(VueRouter)
 
@@ -33,6 +34,11 @@ const routes = [
     path: '/Item4',
     name: 'Item4',
     component: Item4
+  },
+  {
+    path: '/APICovid',
+    name: 'APICovid',
+    component: View_APICovid
   },
   {
     path: '/about',
