@@ -18,6 +18,10 @@
 ## Voltar para Home
 ![image](https://user-images.githubusercontent.com/70040508/143786225-f465282a-6094-493b-a9eb-75bbac545977.png)
 
+## API Covid
+![image](https://user-images.githubusercontent.com/70040508/144760555-0a3808e9-7978-42de-9805-70a402145f4b.png)
+
+
 
 
 
